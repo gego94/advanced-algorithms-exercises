@@ -1,4 +1,4 @@
-# Advanced Algorithms exercizes
+# Advanced Algorithms exercises
  
 In this repository, there are the exercizes made for the course Advanced Algorithms:
 
